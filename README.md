@@ -1,6 +1,8 @@
 # Prak.Pemograman-Mobile
-#### Hi 👋, I'm Syauqi. 
-##### Saya Dosen Teknik Informatika.
+#### Hi 👋, Saya Maysa Farras Adila. 
+#### 230605110017
+#### Prak.Pemograman Mobile (B)
+##### Saya Mahasiswa Teknik Informatika.
 
 💻Saat ini saya sedang mengajar pemrograman mobile:
 
