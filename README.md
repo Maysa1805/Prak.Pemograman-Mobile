@@ -1,4 +1,3 @@
-<img width="1080" height="2220" alt="image" src="https://github.com/user-attachments/assets/538b7873-3cea-4642-931b-d66d76223409" /># Prak.Pemograman-Mobile
 #### Hi 👋, Saya Maysa Farras Adila. 
 #### 230605110017
 #### Prak.Pemograman Mobile (B)
