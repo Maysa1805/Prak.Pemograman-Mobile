@@ -13,6 +13,7 @@
 |  4 | 10-09-2025  | 04 | Widghet Flexible dan Expanded |https://drive.google.com/file/d/1iCuZpW3KWBjjI-IEEO06_buf70M3_3MY/view?usp=drive_link| 
 |  5 | 17-09-2025  | 05 | Widghet SizeBox, Spacer, dan Card |https://drive.google.com/file/d/1keVNiyqeJiLRdRNM3T74AaI8co5IYcxq/view?usp=drive_link| 
 |  6 | 17-09-2025  | 06 | WIdget GridView, ListView, Gridview.builder, dan ListView.builder |https://drive.google.com/file/d/1yBj8vgliP3IVTHPTY8fwDOjTV36fKfrR/view?usp=drive_link| 
-|  7 | 24-09-2025  | 07 | Widghet Row and Column || 
-|  8 | 24-09-2025  | 08 | Widghet Row and Column || 
+|  7 | 24-09-2025  | 07 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route |https://drive.google.com/file/d/1cceDAUFkEY1nJ-mtSjxcdIAkVnj0zcXk/view?usp=drive_link| 
+|  8 | 24-09-2025  | 08 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named
+Route | https://drive.google.com/file/d/1l1JFVMuXzPJBO7WkgJWuhccnO87CxFG2/view?usp=drive_link| 
 
